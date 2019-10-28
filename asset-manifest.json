@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/digital-diary/static/css/main.bb6c0926.chunk.css",
-    "main.js": "/digital-diary/static/js/main.466c82cc.chunk.js",
-    "main.js.map": "/digital-diary/static/js/main.466c82cc.chunk.js.map",
+    "main.js": "/digital-diary/static/js/main.dc915fe0.chunk.js",
+    "main.js.map": "/digital-diary/static/js/main.dc915fe0.chunk.js.map",
     "runtime-main.js": "/digital-diary/static/js/runtime-main.8826a641.js",
     "runtime-main.js.map": "/digital-diary/static/js/runtime-main.8826a641.js.map",
     "static/js/2.7c6d1866.chunk.js": "/digital-diary/static/js/2.7c6d1866.chunk.js",
     "static/js/2.7c6d1866.chunk.js.map": "/digital-diary/static/js/2.7c6d1866.chunk.js.map",
     "index.html": "/digital-diary/index.html",
-    "precache-manifest.fcf1f7f29c5f8bc64a57b40b25bfef52.js": "/digital-diary/precache-manifest.fcf1f7f29c5f8bc64a57b40b25bfef52.js",
+    "precache-manifest.65ef9d074d6d0e21578c4e71ca5fca59.js": "/digital-diary/precache-manifest.65ef9d074d6d0e21578c4e71ca5fca59.js",
     "service-worker.js": "/digital-diary/service-worker.js",
     "static/css/main.bb6c0926.chunk.css.map": "/digital-diary/static/css/main.bb6c0926.chunk.css.map",
     "static/media/loading.gif": "/digital-diary/static/media/loading.74e8fcb3.gif"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8826a641.js",
     "static/js/2.7c6d1866.chunk.js",
     "static/css/main.bb6c0926.chunk.css",
-    "static/js/main.466c82cc.chunk.js"
+    "static/js/main.dc915fe0.chunk.js"
   ]
 }
